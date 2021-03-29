@@ -1,0 +1,5 @@
+purge: [
+    enabled = true,
+    './public/*.html'
+
+]
